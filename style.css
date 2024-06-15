@@ -1,0 +1,54 @@
+h1 {
+    color: rgb(29 25 211);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header{
+    border: olid rgb(6 207 99);
+    border-radius: 23px;
+    background-color: rgb(6 255 137)
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+h4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    font-weight: 529;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+textarea{
+    height: 150px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
